@@ -5,5 +5,34 @@
   "main": "index.js",
   "url": "https://github.com/bnguyensn/anagram-solver-react",
   "author": "@bnguyensn",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.1",
+    "express": "^4.14.1",
+    "lodash": "^4.17.4",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-beta11",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "serve-favicon": "^2.3.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.10.0",
+    "html-webpack-plugin": "^2.28.0",
+    "rimraf": "^2.5.4",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
 }
