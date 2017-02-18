@@ -1,0 +1,9 @@
+{
+  "name": "anagram-solver-react",
+  "version": "0.1.0",
+  "description": "An anagram solver using React and Nodejs.",
+  "main": "index.js",
+  "url": "https://github.com/bnguyensn/anagram-solver-react",
+  "author": "@bnguyensn",
+  "license": "MIT"
+}
